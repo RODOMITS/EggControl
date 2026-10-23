@@ -1,0 +1,755 @@
+{
+  "universe": 10765242573,
+  "place": 80549689028789,
+  "pets": [
+    {
+      "income": 52000000,
+      "name": "52 and 42",
+      "rarity": "Secret"
+    },
+    {
+      "income": 100,
+      "name": "El Gato",
+      "rarity": "Rare"
+    },
+    {
+      "income": 12000,
+      "name": "Yes My Admin Abuse!",
+      "rarity": "God"
+    },
+    {
+      "income": 10,
+      "name": "Shailushai",
+      "rarity": "Uncommon"
+    },
+    {
+      "income": 24000000,
+      "name": "Trollface Mango",
+      "rarity": "Secret"
+    },
+    {
+      "income": 180,
+      "name": "Driving in My Car",
+      "rarity": "Legendary"
+    },
+    {
+      "income": 35000000,
+      "name": "Get Up, Get Up",
+      "rarity": "Secret"
+    },
+    {
+      "income": 40000000,
+      "name": "Legendary Combinasione",
+      "rarity": "Secret"
+    },
+    {
+      "income": 625,
+      "name": "PKH",
+      "rarity": "Mythic"
+    },
+    {
+      "income": 600000,
+      "name": "Shashlik",
+      "rarity": "Secret"
+    },
+    {
+      "income": 20260000,
+      "name": "2026",
+      "rarity": "Secret"
+    },
+    {
+      "income": 75000,
+      "name": "Me Not Me Before Coffee",
+      "rarity": "God"
+    },
+    {
+      "income": 13000000,
+      "name": "13",
+      "rarity": "Secret"
+    },
+    {
+      "income": 200000000,
+      "name": "PI and Door",
+      "rarity": "Secret"
+    },
+    {
+      "income": 40400000,
+      "name": "Cyber Pug",
+      "rarity": "Secret"
+    },
+    {
+      "income": 4200000,
+      "name": "42",
+      "rarity": "Secret"
+    },
+    {
+      "income": 15200000,
+      "name": "52",
+      "rarity": "Secret"
+    },
+    {
+      "income": 1800,
+      "name": "Steak",
+      "rarity": "Mythic"
+    },
+    {
+      "income": 70,
+      "name": "Skebob",
+      "rarity": "Rare"
+    },
+    {
+      "income": 100000,
+      "name": "Bird, Sing a Song",
+      "rarity": "God"
+    },
+    {
+      "income": 75000000,
+      "name": "Mimi",
+      "rarity": "Secret"
+    },
+    {
+      "income": 16,
+      "name": "Labuboo",
+      "rarity": "Uncommon"
+    },
+    {
+      "income": 75,
+      "name": "Cool Games",
+      "rarity": "Rare"
+    },
+    {
+      "income": 300000,
+      "name": "Smell Bebra",
+      "rarity": "Secret"
+    },
+    {
+      "income": 1800000,
+      "name": "Huggy Wuggy",
+      "rarity": "Secret"
+    },
+    {
+      "income": 750,
+      "name": "Didagodigidagodao Nugget",
+      "rarity": "Mythic"
+    },
+    {
+      "income": 1000000,
+      "name": "Headless Combinasione",
+      "rarity": "Secret"
+    },
+    {
+      "income": 100,
+      "name": "Shailushai Vampire",
+      "rarity": "Rare"
+    },
+    {
+      "income": 1000000000,
+      "name": "Fuse Machine Meme",
+      "rarity": "Admin"
+    },
+    {
+      "income": 4,
+      "name": "Noobini Pumpkini",
+      "rarity": "Common"
+    },
+    {
+      "income": 335,
+      "name": "Skeleton",
+      "rarity": "Legendary"
+    },
+    {
+      "income": 160000000,
+      "name": "Hydra Puggy",
+      "rarity": "Secret"
+    },
+    {
+      "income": 190000,
+      "name": "Yes Noobini",
+      "rarity": "God"
+    },
+    {
+      "income": 250000,
+      "name": "Nagiev",
+      "rarity": "God"
+    },
+    {
+      "income": 150000,
+      "name": "Los Shashlikis",
+      "rarity": "God"
+    },
+    {
+      "income": 508000,
+      "name": "ZOV",
+      "rarity": "Secret"
+    },
+    {
+      "income": 32,
+      "name": "Gavkoshmig",
+      "rarity": "Uncommon"
+    },
+    {
+      "income": 67500000,
+      "name": "Dont Get Up",
+      "rarity": "Secret"
+    },
+    {
+      "income": 2000,
+      "name": "Huchini Witchini",
+      "rarity": "Mythic"
+    },
+    {
+      "income": 1950,
+      "name": "ЪУЪ",
+      "rarity": "Mythic"
+    },
+    {
+      "income": 150000,
+      "name": "RODOMITSini Golden Fishini",
+      "rarity": "God"
+    },
+    {
+      "income": 30000,
+      "name": "Skibidi Cauldron",
+      "rarity": "God"
+    },
+    {
+      "income": 42,
+      "name": "2021 Frog",
+      "rarity": "Uncommon"
+    },
+    {
+      "income": 400,
+      "name": "Witchwell",
+      "rarity": "Legendary"
+    },
+    {
+      "income": 2000000,
+      "name": "spookyfrost_winter",
+      "rarity": "Admin"
+    },
+    {
+      "income": 140,
+      "name": "Durka",
+      "rarity": "Legendary"
+    },
+    {
+      "income": 130,
+      "name": "Freddy Fazbear",
+      "rarity": "Rare"
+    },
+    {
+      "income": 20000,
+      "name": "Skibidi Toilet",
+      "rarity": "God"
+    },
+    {
+      "income": 3500000,
+      "name": "Benzo",
+      "rarity": "Secret"
+    },
+    {
+      "income": 500000,
+      "name": "Sisaliki",
+      "rarity": "Secret"
+    },
+    {
+      "income": 50000,
+      "name": "Sausage Mouse",
+      "rarity": "God"
+    },
+    {
+      "income": 2200,
+      "name": "Ocop",
+      "rarity": "Mythic"
+    },
+    {
+      "income": 20,
+      "name": "Papus",
+      "rarity": "Uncommon"
+    },
+    {
+      "income": 24000000,
+      "name": "Lisharty",
+      "rarity": "Secret"
+    },
+    {
+      "income": 1300,
+      "name": "Poland Cow",
+      "rarity": "Mythic"
+    },
+    {
+      "income": 125000,
+      "name": "Evaidik",
+      "rarity": "God"
+    },
+    {
+      "income": 115,
+      "name": "Dragon",
+      "rarity": "Rare"
+    },
+    {
+      "income": 500,
+      "name": "Cheese and meet",
+      "rarity": "Mythic"
+    },
+    {
+      "income": 465000,
+      "name": "Gas Oven",
+      "rarity": "Secret"
+    },
+    {
+      "income": 1,
+      "name": "Noobini No Pizzanini",
+      "rarity": "Common"
+    },
+    {
+      "income": 50000000,
+      "name": "Calculator",
+      "rarity": "Secret"
+    },
+    {
+      "income": 55,
+      "name": "Olce Milk",
+      "rarity": "Rare"
+    },
+    {
+      "income": 400,
+      "name": "Maxwell",
+      "rarity": "Legendary"
+    },
+    {
+      "income": 1000000,
+      "name": "Black Pencil",
+      "rarity": "Secret"
+    },
+    {
+      "income": 400000,
+      "name": "MAX",
+      "rarity": "Secret"
+    },
+    {
+      "income": 9000,
+      "name": "Los Pugitos Frenkunitos",
+      "rarity": "God"
+    },
+    {
+      "income": 75000000,
+      "name": "Hogwarts",
+      "rarity": "Admin"
+    },
+    {
+      "income": 2500,
+      "name": "Floppa",
+      "rarity": "Mythic"
+    },
+    {
+      "income": 10000000,
+      "name": "Meme Combinasione",
+      "rarity": "Secret"
+    },
+    {
+      "income": 460,
+      "name": "Burger King",
+      "rarity": "Legendary"
+    },
+    {
+      "income": 5,
+      "name": "Labubu",
+      "rarity": "Uncommon"
+    },
+    {
+      "income": 350000000,
+      "name": "Kuki",
+      "rarity": "Transcendent"
+    },
+    {
+      "income": 85000,
+      "name": "Bird",
+      "rarity": "God"
+    },
+    {
+      "income": 4000,
+      "name": "Huchini Bombini",
+      "rarity": "God"
+    },
+    {
+      "income": 15,
+      "name": "Jumaisemba",
+      "rarity": "Uncommon"
+    },
+    {
+      "income": 5000000,
+      "name": "1000-7",
+      "rarity": "Secret"
+    },
+    {
+      "income": 48500000,
+      "name": "Lorna",
+      "rarity": "Secret"
+    },
+    {
+      "income": 375,
+      "name": "Fire In The Hole",
+      "rarity": "Legendary"
+    },
+    {
+      "income": 115,
+      "name": "Easter Bunny",
+      "rarity": "Rare"
+    },
+    {
+      "income": 280,
+      "name": "Chill Guy",
+      "rarity": "Legendary"
+    }
+  ],
+  "mutations": {
+    "Diamond": {
+      "multiplier": 1.5,
+      "color": "64e1ff"
+    },
+    "Disco": {
+      "multiplier": 2.5,
+      "color": "ff3cc3"
+    },
+    "Puggy": {
+      "multiplier": 2.5,
+      "color": "d2a064"
+    },
+    "Rainbow": {
+      "multiplier": 2,
+      "color": "ff78dc"
+    },
+    "Aurora": {
+      "multiplier": 2.5,
+      "color": "8cffd2"
+    },
+    "Big-Eared": {
+      "multiplier": 2.5,
+      "color": "d79650"
+    },
+    "Fog": {
+      "multiplier": 2.5,
+      "color": "b9c8d2"
+    },
+    "Glitched": {
+      "multiplier": 2.5,
+      "color": "50ff6e"
+    },
+    "Ruby": {
+      "multiplier": 1.75,
+      "color": "e61941"
+    },
+    "Default": {
+      "multiplier": 1,
+      "color": "ffffff"
+    },
+    "Windy": {
+      "multiplier": 2.5,
+      "color": "beebe6"
+    },
+    "Void": {
+      "multiplier": 2.5,
+      "color": "9b46ff"
+    },
+    "Gold": {
+      "multiplier": 1.25,
+      "color": "ffc82d"
+    },
+    "Electrified": {
+      "multiplier": 2.75,
+      "color": "ffe12d"
+    },
+    "Wet": {
+      "multiplier": 2.5,
+      "color": "87a5b9"
+    }
+  },
+  "eggs": [
+    "EggSecret",
+    "EggCommon",
+    "EggRare",
+    "EggHalloween",
+    "EggUncommon",
+    "EggLegendary",
+    "EggGod",
+    "EggMythic"
+  ],
+  "events": [
+    "Blackhole",
+    "Tornado",
+    "Trick or Treat",
+    "Disco",
+    "Floppa",
+    "X2 Speed Boost",
+    "Bombinis",
+    "Farmer",
+    "Glitch",
+    "X2 Hatch Boost",
+    "Rain",
+    "Thunderstorm",
+    "Aurora",
+    "Winter 2021",
+    "EGG >:3"
+  ],
+  "commands": [
+    {
+      "name": "announcement",
+      "args": [
+        {
+          "Type": "string",
+          "Name": "message",
+          "Description": "Текст объявления"
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Отправляет объявление",
+      "aliases": [
+        "a"
+      ]
+    },
+    {
+      "name": "globalevent",
+      "args": [
+        {
+          "Type": "eventAction",
+          "Name": "action",
+          "Description": "start или stop"
+        },
+        {
+          "Type": "event",
+          "Name": "name",
+          "Description": "Имя ивента (например Blackhole)"
+        },
+        {
+          "Type": "eventDuration",
+          "Name": "duration",
+          "Description": "Длительность в секундах (необязательно, 0 = бессрочно)",
+          "Optional": true
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Запускает/останавливает игровой ивент на ВСЕХ серверах игры",
+      "aliases": []
+    },
+    {
+      "name": "globalskipfuse",
+      "args": [],
+      "group": "DefaultAdmin",
+      "description": "Finish active fuses on all live servers",
+      "aliases": []
+    },
+    {
+      "name": "globalcode",
+      "args": [
+        {
+          "Type": "string",
+          "Name": "name"
+        },
+        {
+          "Type": "integer",
+          "Name": "activations"
+        },
+        {
+          "Type": "rewardKind",
+          "Name": "type"
+        },
+        {
+          "Type": "integer",
+          "Name": "amount"
+        },
+        {
+          "Type": "string",
+          "Name": "rewardname",
+          "Default": "",
+          "Optional": true
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Create a global reward code",
+      "aliases": []
+    },
+    {
+      "name": "globalpoll",
+      "args": [
+        {
+          "Type": "string",
+          "Name": "Question"
+        },
+        {
+          "Type": "string",
+          "Name": "Answer1"
+        },
+        {
+          "Type": "string",
+          "Name": "Answer2"
+        },
+        {
+          "Type": "integer",
+          "Name": "Duration",
+          "Default": 30,
+          "Optional": true
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Start a global poll with two answers",
+      "aliases": []
+    },
+    {
+      "name": "fakedrop",
+      "args": [
+        {
+          "Type": "string",
+          "Name": "player"
+        },
+        {
+          "Type": "pet",
+          "Name": "fakedroppetname"
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Tease a fake pet on the player's next hatch, then reveal the real reward",
+      "aliases": []
+    },
+    {
+      "name": "unfakegrab",
+      "args": [
+        {
+          "Type": "string",
+          "Name": "player"
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Toggle fake egg grab prank",
+      "aliases": []
+    },
+    {
+      "name": "fakegrab",
+      "args": [
+        {
+          "Type": "string",
+          "Name": "player"
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Toggle fake egg grab prank",
+      "aliases": []
+    },
+    {
+      "name": "globalmorph",
+      "args": [
+        {
+          "Type": "morphPet",
+          "Name": "petname"
+        },
+        {
+          "Type": "integer",
+          "Name": "duration",
+          "Default": 120,
+          "Optional": true
+        },
+        {
+          "Type": "boolean",
+          "Name": "withboard",
+          "Optional": true
+        },
+        {
+          "Type": "boolean",
+          "Name": "slowdown",
+          "Optional": true
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Morph everyone on all live servers",
+      "aliases": []
+    },
+    {
+      "name": "globalunmorph",
+      "args": [],
+      "group": "DefaultAdmin",
+      "description": "Clear the global morph on all live servers",
+      "aliases": []
+    },
+    {
+      "name": "globalgivecandy",
+      "args": [
+        {
+          "Type": "integer",
+          "Name": "amount"
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Give Candy to players on all live servers",
+      "aliases": []
+    },
+    {
+      "name": "globalgive",
+      "args": [
+        {
+          "Type": "itemKind",
+          "Name": "kind"
+        },
+        {
+          "Type": "string",
+          "Name": "dynamic",
+          "Optional": true
+        },
+        {
+          "Type": "integer",
+          "Name": "amount",
+          "Default": 1,
+          "Optional": true
+        },
+        {
+          "Type": "mutation",
+          "Name": "mutation",
+          "Default": "Default",
+          "Optional": true
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Give pets or eggs to players on all live servers",
+      "aliases": []
+    },
+    {
+      "name": "fakeupgrade",
+      "args": [
+        {
+          "Type": "string",
+          "Name": "player"
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Prank the next losing upgrade without changing its reward",
+      "aliases": []
+    },
+    {
+      "name": "isplayeronline",
+      "args": [
+        {
+          "Type": "string",
+          "Name": "player"
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Check whether a player is on a live server of this place",
+      "aliases": []
+    },
+    {
+      "name": "remoteannounce",
+      "args": [
+        {
+          "Type": "string",
+          "Name": "player"
+        },
+        {
+          "Type": "string",
+          "Name": "announce"
+        }
+      ],
+      "group": "DefaultAdmin",
+      "description": "Send a filtered notification only to the named player on their server",
+      "aliases": []
+    }
+  ]
+}
