@@ -4,10 +4,17 @@ function icon(name){const s=document.createElementNS('http://www.w3.org/2000/svg
 document.querySelectorAll('[data-icon]').forEach(e=>e.replaceWith(icon(e.dataset.icon)));
 const $=id=>document.getElementById(id),el=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e};
 
+let portraitSequence=0;
 function portrait(data, label=''){
  if(!data || !/^\/static\/icons\/atlas-\d+\.webp$/.test(data.atlas||''))return icon('egg');
  const ns='http://www.w3.org/2000/svg',svg=document.createElementNS(ns,'svg'),img=document.createElementNS(ns,'image');
  svg.classList.add('pet-portrait');svg.setAttribute('viewBox',[data.x,data.y,data.width,data.height].join(' '));svg.setAttribute('preserveAspectRatio','xMidYMid meet');svg.setAttribute('role','img');svg.setAttribute('aria-label',label);
+ // Clip to the atlas cell, not the outer viewport's aspect-ratio letterbox.
+ const defs=document.createElementNS(ns,'defs'),clip=document.createElementNS(ns,'clipPath'),rect=document.createElementNS(ns,'rect');
+ const clipId='pet-portrait-clip-'+(++portraitSequence);
+ clip.setAttribute('id',clipId);clip.setAttribute('clipPathUnits','userSpaceOnUse');
+ for(const key of ['x','y','width','height'])rect.setAttribute(key,data[key]);
+ clip.append(rect);defs.append(clip);svg.append(defs);img.setAttribute('clip-path','url(#'+clipId+')');
  img.setAttribute('href',data.atlas);img.setAttribute('width',data.atlasWidth);img.setAttribute('height',data.atlasHeight);
  img.addEventListener('error',()=>svg.replaceWith(icon('egg')),{once:true});svg.append(img);return svg;
 }
