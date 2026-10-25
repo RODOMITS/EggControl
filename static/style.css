@@ -10,3 +10,17 @@
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important}}
 #breadcrumb{display:none}header{justify-content:flex-end}
 #apiStatus{justify-content:space-between;flex-wrap:wrap}#apiStatus .secondary{padding:7px 10px;min-height:31px;font-size:10px}#diagnosticResult{white-space:pre-wrap;overflow-wrap:anywhere;font-family:inherit;font-size:12px;line-height:1.8;color:#a6bfdf;margin:20px 0}
+
+/* Native model previews share five compact, locally served image atlases. */
+.pet-visual{background:#0b1221}
+.pet-visual svg.pet-portrait,.pet-card:hover .pet-visual svg.pet-portrait{width:100%;height:100%;stroke:none;filter:none;transform:none}
+.pet-portrait{overflow:hidden}
+.mutation-chip{display:inline-flex;align-items:center;gap:7px}
+.mutation-chip svg,.mutation-tag svg{color:var(--mutation);width:16px;height:16px}
+.mutation-tag{display:flex;align-items:center;gap:5px}
+.field-preview{display:flex;align-items:center;gap:12px;background:#0b1221;border:1px solid var(--line);border-radius:8px;padding:6px 10px;min-height:70px}
+.field-preview .pet-portrait{width:84px;height:72px;flex-shrink:0;stroke:none}
+.field-preview span{overflow-wrap:anywhere}
+.is-rainbow svg{animation:mutation-hue 6s linear infinite}
+@keyframes mutation-hue{to{filter:hue-rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.is-rainbow svg{animation:none}}
