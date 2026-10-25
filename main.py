@@ -213,7 +213,7 @@ def exists(user=Depends(identity)):
         result=cloud.exists()
     except CloudError as exc:
         result={'counts':None,'updatedAt':None,'state':'error','error':str(exc)}
-    return dict(result,catalog=CATALOG['pets'],mutations=CATALOG['mutations'])
+    return dict(result,catalog=CATALOG['pets'],mutations=CATALOG['mutations'],eggIcons=CATALOG.get('eggIcons',{}))
 
 
 @app.get('/api/players')
